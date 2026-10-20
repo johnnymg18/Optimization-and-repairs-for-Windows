@@ -1,7 +1,3 @@
-Aqui está uma versão resumida, formatada em Markdown, pronta para você copiar e colar no `README.md` do seu repositório no GitHub:
-
----
-
 ## 🚀 Funcionalidades
 
 ### 🛡️ Elevação de Privilégios
